@@ -1,6 +1,8 @@
 # optimising_colab_tf_preprocessing
 A short git outlining optimsing data load and pre-process using Colab &amp; Tensorflow.
 
+Code is currently a stub without imports and data. These will be added at a later date.
+
 Full write-up available <a href="#">here</a>.
 
 Core concepts are to:
